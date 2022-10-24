@@ -1,5 +1,5 @@
 ﻿
-// MainFrm.cpp: CMainFrame 클래스의 구현
+//  MainFrm.cpp: CMainFrame 클래스의 구현
 //
 
 #include "pch.h"
